@@ -1,0 +1,108 @@
+.navbar{
+    
+    margin-left:-12px;
+    margin-top:-12px;
+    width: 101.9%;
+
+}
+.navbar-brand{
+    margin-left:40%;
+} 
+.logo{
+    margin-left: 20px;
+}
+.Para1{
+   
+    -webkit-text-fill-color: white;
+}
+.btn1{
+    text-align:center;
+    text-decoration:solid;
+    font-size:medium;
+    margin-top:-20px;
+    -webkit-text-fill-color: white;
+    position:relative;
+}
+.Para2{
+    text-align:center;
+    text-decoration:solid;
+    font-size:10px;
+    margin-top:-2px;
+    -webkit-text-fill-color:white;
+}
+.head1{
+    text-align:center;
+    text-decoration:solid;
+    font-size:medium;
+    margin-top:50px;
+    -webkit-text-fill-color: white;
+}
+.btn2{
+    text-align:center;
+    text-decoration:solid;
+    font-size:medium;
+    margin-bottom: 100px;
+    -webkit-text-fill-color: white;
+    position:relative;
+}
+.head2{
+    text-align:center;
+    text-decoration:solid;
+    font-size:medium;
+    margin-top:-70px;
+    -webkit-text-fill-color: white;
+}
+
+.card1{
+    margin-left:250px;
+
+} 
+.card2{
+    margin-left:610px;
+    margin-top:-240px;
+}
+.card3{
+    margin-left:960px;
+    margin-top:-240px;
+}
+.card4{
+    margin-left:250px;
+    margin-top:3rem;
+}
+
+.card5{
+    margin-left:610px;
+    margin-top:-240px;
+}
+.card6{
+    margin-left:960px;
+    margin-top:-240px;
+} 
+
+ .back{
+       height:200px; 
+       width:1000px;
+       background-size:cover;
+
+} 
+ .headcon{
+    text-align: center;
+    text-decoration-color: white;
+    font-size: large;
+    margin-top:-1300px;
+
+}  
+.form1{
+    margin-left:130px;
+    margin-top: 30px;
+}
+.btn10{
+    margin-left:65px;
+}
+.addr{
+margin-left:1100px;
+margin-top:-300px;
+}
+.image1{
+    margin-left:40px;
+}
